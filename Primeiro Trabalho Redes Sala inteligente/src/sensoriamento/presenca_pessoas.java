@@ -13,7 +13,7 @@ public class presenca_pessoas {
 	}
 
 	public String getStatus_pessoas() {
-		return status_pessoass;
+		return status_pessoas;
 	}
 
 	public void setStatus_pessoas(String status_pessoas) {
